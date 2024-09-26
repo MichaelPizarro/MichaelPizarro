@@ -7,3 +7,7 @@
 
 ## Hobbies
 - Dancing: ...
+
+## Languages
+-Spanish
+-English
